@@ -1,3 +1,0 @@
-/home/dt/Desktop/Markov_Chain_for_shitposting/Release/CMakeFiles/Markov_Chain_For_Shitposting.dir
-/home/dt/Desktop/Markov_Chain_for_shitposting/Release/CMakeFiles/edit_cache.dir
-/home/dt/Desktop/Markov_Chain_for_shitposting/Release/CMakeFiles/rebuild_cache.dir
